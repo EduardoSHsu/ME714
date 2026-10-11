@@ -1,0 +1,1 @@
+Repositório criado para o desenvolvimento do projeto da disciplina ME714 – Análise de Dados Discretos. O trabalho utiliza regressão logística múltipla e análise de deviance para investigar a eficácia da medicina chinesa combinada à terapia anti-hipertensiva convencional.
